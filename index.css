@@ -68,3 +68,9 @@ img {
   max-width: 200px;
   max-height: 200px;
 }
+.copywrite{
+  
+  display:block;
+  width:25%;
+  margin:0px auto;
+  }
