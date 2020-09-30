@@ -68,8 +68,8 @@ img {
   max-width: 200px;
   max-height: 200px;
 }
-li{
-  list-style:none;
+.copywrite{
+  
   display:block;
   width:25%;
   margin:0px auto;
